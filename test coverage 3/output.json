@@ -1,0 +1,71 @@
+[
+  {
+    "client_register_1": "Passed"
+  },
+  {
+    "client_register_2": "Passed"
+  },
+  {
+    "client_login_1": "Passed"
+  },
+  {
+    "client_login_2": "Passed"
+  },
+  {
+    "client_login_3": "Passed"
+  },
+  {
+    "multiple_client_login_1": "Passed"
+  },
+  {
+    "client_create_channel_1": "Passed"
+  },
+  {
+    "client_create_channel_2": "Passed"
+  },
+  {
+    "client_create_channel_3": "Passed"
+  },
+  {
+    "client_retrieve_channel_1": "Passed"
+  },
+  {
+    "client_retrieve_channel_2": "Passed"
+  },
+  {
+    "client_join_1": "Passed"
+  },
+  {
+    "client_join_2": "Passed"
+  },
+  {
+    "client_join_3": "Passed"
+  },
+  {
+    "client_say_1": "Passed"
+  },
+  {
+    "server_register_1": "Passed"
+  },
+  {
+    "server_login_1": "Passed"
+  },
+  {
+    "server_login_2": "Passed"
+  },
+  {
+    "multiple_server_login_1": "Passed"
+  },
+  {
+    "server_create_channel_1": "Passed"
+  },
+  {
+    "server_retrieve_channel_1": "Passed"
+  },
+  {
+    "server_retrieve_channel_2": "Passed"
+  },
+  {
+    "server_join_channel_1": "Passed"
+  }
+]
